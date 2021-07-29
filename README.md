@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![My Funky Header](https://github.com/hgup/hgup/GitHub.gif)
 <!--
 **hgup/hgup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
